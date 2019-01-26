@@ -4,7 +4,7 @@
     "label": "Student",
     "picture": "https://KatShimomura.github.io/images/molly.png",
     "email": "katrinae@hawaii.edu",
-    "phone": "808-728-7223",
+    "phone": "",
     "website": "https://KatShimomura.github.io",
     "summary": "I am studying for a B.S. in Computer Engineering in the School of Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
@@ -24,29 +24,12 @@
         "network": "linkedin",
         "username": "KatShimomura",
         "url": "http://linkedin.com/in/KatShimomura"
-      },
-      {
-        "network": "instagram",
-        "username": "axinight",
-        "url": "http://instagram.com/axinight"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
+      "name": "software engineering",
       "keywords": [
       ]
     }
