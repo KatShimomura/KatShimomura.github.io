@@ -1,15 +1,16 @@
 ---
 layout: essay
 type: essay
-title: Igniting the fire
-date: 2015-08-26
+title: Unexpected Relatable Interests
+date: 2019-01-27
 labels:
+  - Design
   - Software Engineering
   - Learning
 ---
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+Like many children, when I was young one of the class subjects I enjoyed the most was art.  I took up drawing and painting at home as well as playing video games.  When I got older my grandmother taught me how to sew, and from there my art grew into recreating outfits from my beloved video games and more.  Little did I know that this love for art and games would help lead me to choose the career path I've chosen today.
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+When I took my first electrical engineering electives the coding intimidated me, but the circuits interested me.  The first thing I thought was I could use these skills to light up a prop, and that's how I started in the field of engineering.  Things have changed since then.  I'm still intimidated by coding, but the design of software engineering intrigues me, and one day I hope to be able to think like a programmer and write code efficiently.
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+This semester is the my first time learning and using Java Script, or any scripting language.  Right now I feel like I'm behind as far as learning the syntax, but I'm going to try to push forward and survive the course.  I hope to take these learning experiences and struggles to get closer to the goal of being proficient at coding.
