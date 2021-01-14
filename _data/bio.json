@@ -6,7 +6,7 @@
     "email": "katrinae@hawaii.edu",
     "phone": "",
     "website": "https://KatShimomura.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the School of Engineering at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am studying for a B.S. in Computer Engineering in the School of Engineering at the University of Hawaii. I expect to graduate in Fall, 2021.",
     "location": {
       "address": "2500 Campus Rd,",
       "postalCode": "96822",
@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "KatShimomura",
-        "url": "http://linkedin.com/in/KatShimomura"
+        "url": "www.linkedin.com/in/katrina-shimomura-985107204"
       },
       {
         "network": "email",
@@ -56,8 +56,7 @@
       "keywords": [
         "C",
         "C++",
-        "Javascript",
-        "Assembly"
+        "Javascript"
       ]
     },
     {
@@ -73,9 +72,9 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2021)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2016",
       "endDate": "Present",
       "gpa": "",
       "courses": [
