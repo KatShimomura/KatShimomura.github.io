@@ -23,7 +23,7 @@
       {
         "network": "linkedin",
         "username": "KatShimomura",
-        "url": "www.linkedin.com/in/katrina-shimomura-985107204"
+        "url": "https://www.linkedin.com/in/katrina-shimomura-985107204"
       },
       {
         "network": "email",
@@ -31,7 +31,7 @@
         "url": "katrinae@hawaii.edu"
       }
     ]
-  },
+  
   "interests": [
     {
       "name": "software engineering",
