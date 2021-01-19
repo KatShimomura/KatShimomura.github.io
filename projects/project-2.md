@@ -7,7 +7,7 @@ permalink: projects/cbf
 # All dates must be YYYY-MM-DD format!
 date: 2019-03-16
 labels:
-  - Teamwork
+  - Teamwork\n
   - Public Speaking
   - Volunteer work
 summary: I ran as a queen contestant for the Cherry Blossom Festival in the year 2019 and won the title of princess.
