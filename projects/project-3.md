@@ -24,4 +24,4 @@ Another important aspect of a YouTube channel is design.  Infact, I would say a 
 
 Last but not least, video editing.  A lot of time is spent in Adobe Premier, cutting, pasting, and syncing video clips, sound effects, and fun images together to create something at least mildly entertaining for viewers to watch.  Sometimes, a scene as long as 5 seconds can take 2 hours to edit depending on the amount of work that goes into it.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6jtvwhR27U0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Link to our channel: https://www.youtube.com/channel/UCvfcorurRp7wNSJEGkYWTmg
