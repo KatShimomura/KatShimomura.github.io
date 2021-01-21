@@ -9,53 +9,18 @@ date: 2021-01-20
 labels:
   - Adobe Photoshop
   - Adobe Premiere
+  - Research
+  - Design
 summary: I make videos on YouTube together with my partner.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/ACNH-new-years-thumbnail.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Our YouTube channel UnderLeveled is a recently started project where we make video game related content.  So far even though we've just started in the month of January, 2021, our content has spanned from video game related culture lessons to reviewing video game themed products as well as video games themselves.  Although a YouTube channel about video games may sound like all fun and games, a lot of work goes into creating and maintaining the channel.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Because it's just me and my partner, we both need to pull our fair share of work.  The work that goes into maintaining our YouTube channel spans across more skill fields than I could have ever possibly imagined.  For many videos, a lot of research and fact checking needs to be done before hand--We wouldn't want to spread any false information.  I would say a good amount of prep work for each video goes into making sure what we're saying is true.
 
-<hr>
+Another important aspect of a YouTube channel is design.  Infact, I would say a good majority of whether or not people take interest in your videos goes into the work you put into designing the thumbnails, as well as your icon and banner.  For our YouTube channel, we weren't absolutely confident in our ability to design a logo, so we actually hired someone on Fiverr to do so for us, but the banner and thumbnails we design ourselves in Adobe Photoshop.  We also designed and created a lot of our background ourselves. From the wooden shelves to the dragon head you see hanging on the wall.  The dragon head (or if you're familiar with the game Monster Hunter, Rathalos head) is 3D printed, coated in resin, and air brushed to look as realistic as we could possibly make it.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Last but not least, video editing.  A lot of time is spent in Adobe Premier, cutting, pasting, and syncing video clips, sound effects, and fun images together to create something at least mildly entertaining for viewers to watch.  Sometimes, a scene as long as 5 seconds can take 2 hours to edit depending on the amount of work that goes into it.
 
