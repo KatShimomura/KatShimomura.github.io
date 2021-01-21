@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Unexpected Relatable Interests
-date: 2019-01-27
+date: 2021-01-20
 labels:
   - Design
   - Software Engineering
