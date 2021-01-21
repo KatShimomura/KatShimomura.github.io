@@ -5,7 +5,7 @@ image: images/shazandkairi.jpg
 title: Cosplay
 permalink: projects/cosplay
 # All dates must be YYYY-MM-DD format!
-date: 2019-01-27
+date: 2021-01-20
 labels:
   - Design
   - Art
