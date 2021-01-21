@@ -8,6 +8,7 @@ permalink: projects/cosplay
 date: 2019-01-27
 labels:
   - Design
+  - Art
 summary: I dress up as fictional characters for a hobby.
 ---
 
