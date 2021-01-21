@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/shazandkairi.jpg
+image: images/kairi-cos.jpg
 title: Cosplay
 permalink: projects/cosplay
 # All dates must be YYYY-MM-DD format!
