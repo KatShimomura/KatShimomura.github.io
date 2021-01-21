@@ -1,18 +1,18 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/youtube-intro-thumbnail.png
+title: YouTube Videos
+permalink: projects/youtube
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-01-20
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Adobe Photoshop
+  - Adobe Premiere
+summary: I make videos on YouTube together with my partner.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="{{ site.baseurl }}/images/ACNH-new-years-thumbnail.png">
 
 Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
