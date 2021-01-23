@@ -14,7 +14,7 @@ labels:
 summary: I make videos on YouTube together with my partner.
 ---
 
-<img class="ui image" src="/images/ACNH-new-years-thumbnail.png">
+<img class="ui image" src="../images/ACNH-new-years-thumbnail.png">
 
 Our YouTube channel UnderLeveled is a recently started project where we make video game related content.  So far even though we've just started in the month of January, 2021, our content has spanned from video game related culture lessons to reviewing video game themed products as well as video games themselves.  Although a YouTube channel about video games may sound like all fun and games, a lot of work goes into creating and maintaining the channel.
 
