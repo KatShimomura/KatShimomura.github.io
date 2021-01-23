@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/CBF-princess.jpg
+image: images/CBF-princess-square.png
 title: Cherry Blossom Festival
 permalink: projects/cbf
 # All dates must be YYYY-MM-DD format!
