@@ -80,28 +80,7 @@
   ],
   "work": [
     {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
-    },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        ""
-      ]
+
     }
   ],
   "volunteer": [
@@ -116,19 +95,6 @@
         "Bloodbank Hawai'i blood drive volunteer event",
         "Humane Society booth volunteer event"
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "",
-        "",
-        ""
-      ]
     }
   ],
   "awards": [
@@ -137,12 +103,6 @@
       "date": "2020-03-16",
       "awarder": "Cherry Blossom Festival Hawai'i",
       "summary": "Won the title of Princess on the 2019 Cherry Blossom Court."
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
     }
   ],
   "references": [
