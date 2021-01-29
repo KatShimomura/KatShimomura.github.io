@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: There is Such Thing as a Bad Question
+title: There is Such Thing as a Stupid Question
 date: 2021-01-20
 labels:
   - Android
