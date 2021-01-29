@@ -15,11 +15,11 @@ summary: I ran as a queen contestant for the Cherry Blossom Festival in the year
 
 The  Cherry Blossom Festival is a cultural event that shares Japanese culture in Hawaii.  It is run  by the HJJCC (Honolulu Japanese Junior Chamber of Commerce) and every year they hold a contest for young women to be able to be part of the court as princesses or even crowned queen.  They do not call it a pageant because they want to focus more on the cultural aspects instead of beauty, and they judge more on poise and public speaking skills.  They judge on these skills instead of beauty so that the cherry blossom court can be a group of women who can be good role models for Japanese American women.
 
-<img class="ui medium right floated rounded image" src="../images/cbfKimono.jpg">
+<img class="ui small right floated rounded image" src="../images/cbfKimono.jpg">
 
 Through this event I've been able to experience amazing cultural classes such as ramen making and taiko lessons.  The coordination for some of the events takes team work, such as when we learned to do Okinawan lion dancing.  It also creates a sense of competition without becoming hostile towards eachother. 
 
-<div class="ui medium rounded images">
+<div class="ui small rounded images">
   <img class="ui image" src="../images/obonVolunteer.jpg">
   <img class="ui image" src="../images/obonVolunteer2.jpg">
 </div>
