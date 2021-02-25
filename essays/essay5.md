@@ -11,7 +11,7 @@ labels:
 ---
 
 ## Back in My Day...
-
+<img class="ui float image" src="../images/myspaceTom.jpg" height="200px">
   What was your first intro to HTML?  Was it tumblr, or maybe a college course?  Well, this might give away how old I am, but back in my day--before Facebook--there was something called MySpace.  One of the begining "blog" type websites where you could update statuses, keep a list of friends, upload pictures, and most importantly (to me anyway) customize how your page looks.  Back then it was mostly copying and pasting other people's codes, but after a while you kind of got the hang of what code snippet did what, and you could go in and customize things yourself if you knew how to.  After the premier of Facebook and other social medias, MySpace died down, and everything I had learned about HTML got pushed into the back of my brain shelves, never to be seen again... Until now.
   
 ## Dusting off the Cobwebs
