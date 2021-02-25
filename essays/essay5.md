@@ -19,3 +19,8 @@ labels:
   
 ## A Semantic Savior
   If you are infact not an HTML and CSS wizard, fear not and rejoice!  There is no need to become one, thanks to the existence of UI Frameworks!  The UI Framework this college course has us working on (so far) is called Semantic UI, and it makes formatting much, much easier.  Although UI Frameworks can be difficult to learn (some even say it's as hard as learning a new language), Semantic UI is based on natural language and seems very beginner friendly.  Many of the commands/names are intuitive and can be guessed, but even when that's not the case, the Semantic UI website has extremely good documentation on what a syntax does, and how to use it.  In my short time of using Semantic UI, I've found it fairly straight-forward and painless.  There are of course still many things I don't know how to do, but few things a quick google search can't solve.  Making replicas of websites for practice has become much more simple, but there are still some things that I can't quite get to look exactly the same.  Overall, if you're new to HTML, or like me you haven't used it since the MySpace days, I would definitely suggest picking up an easy to learn UI Framework to make your life easier!
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/Nintendo-Original.png">
+  <img class="ui image" src="../images/Nintendo-Mine.png">
+</div>
+Above are screen shots of the original Nintendo website (left) and my version (right) that I created in about an hour using Semantic UI!
