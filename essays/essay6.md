@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Profession Spanning Concept: Design Patterns
+title: A Profession Spanning Concept, Design Patterns
 date: 2021-04-29
 labels:
   - Javascript
