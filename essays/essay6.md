@@ -5,9 +5,10 @@ title: A Profession Spanning Concept: Design Patterns
 date: 2021-04-29
 labels:
   - Javascript
-  - Semantic UI
+  - React Semantic UI
   - Learning
   - Meteor
+  - Mongo DB
 ---
 
 ## Great Ideas
@@ -38,8 +39,14 @@ The way I'm (currently working on) implementing the observer design pattern is a
 
 The problem presented with the Singleton design pattern is that there may be a need for a "global variable," but no means to provide that global variable in the object oriented language that is being used.  This can be acheived through Javascript and Mongo DB with the Javascript classes and Mongo DB collections.
 
-The way that I have implemented the Singleton design pattern is by making a collection in Mongo DB called "Contacts".  So, there's a "contactsCollection" class in Javascript which manages the access to the underlying "contactsCollection" in Mongo DB.  Our class "contactsCollection" will export a variable "Contacts", which will be used each time a contact is created.  This creates a global variable, "Contacts," from a single instance, "contactsCollection."
+The way that I have implemented the Singleton design pattern is by making a collection in Mongo DB called "contactsCollection".  So, there's a "Contact" class in Javascript which manages the access to the underlying "contactsCollection" in Mongo DB.  Our class "Contact" will export a variable "Contacts", which will be used each time a contact is created.  This creates a global variable, "Contacts," from a single instance, "contactsCollection."
 
 ### Factory
 
 The problem presented for the Factory design pattern was the need to create objects without them being exactly the same.  For example, you might want to create objects that are associated with different classes or are dependant objects.  
+
+This can also be acheived through the contacts example.  Using simple schema, we are able to create a collection of contacts that differ in certain characteristics.  For example, a contact's name and bio are probable different from another contact's name and bio.
+
+## 10/10 Would Recommend
+
+I will be the first to admit that I am still fairly new to the world of Design Patterns, but so far my experience with them has been nothing short of useful.  Without even knowing you're applying them, you probably are!  It's just putting a name to a problem/solution, and then once you can diagnose if a problem is similar to a typical design pattern problem, you can categorize the issue and solve the problem accordingly.  I still have a lot to learn about design patterns, but they are extremely interesting and useful; ten out of ten would recommend to a friend.
