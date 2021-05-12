@@ -38,27 +38,27 @@ To create this project, our team worked over the course of three milestones. In 
 For the first milestone, my contribution was making all the mockups in Photoshop and creating the Landing Page seen at the beginning of this essay.
 
 <img class="ui image" src="../images/Mockup-Landing.png">
-Above is the Landing Page mock-up.
+<footer>Above is the Landing Page mock-up.</footer>
 
 ### Second Milestone
 
 For the second milestone, my contribution was to implement the edit user profile function as well as write the Development Guide and User Guide on our github.io website.
 
 <img class="ui image" src="../images/easyChefEditProfile.png">
-Above is the Edit Profile page.
+<footer>Above is the Edit Profile page.</footer>
 
 ### Third Milestone
 
 For the third milestone, my contribution was to create an add user profile page and implement that so that new users are routed to fill out that form, as well as create a list users page allowing those who are logged in to be able to see all users that access Easy Chef.
 
 <img class="ui image" src="../images/easyChefAddProfile.png">
-Above is the Add Profile page.
+<footer>Above is the Add Profile page.</footer>
 
 <img class="ui image" src="../images/easyChefProfile.png">
-Above is how the profile looks after the Add Profile form is submitted.
+<footer>Above is how the profile looks after the Add Profile form is submitted.</footer>
 
 <img class="ui image" src="../images/easyChefViewUsers.png">
-Above is the View Users page.
+<footer>Above is the View Users page.</footer>
 
 ## The Many Things I've Learned
 
