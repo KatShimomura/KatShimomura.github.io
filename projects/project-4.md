@@ -45,7 +45,7 @@ For the first milestone, my contribution was making all the mockups in Photoshop
 For the second milestone, my contribution was to implement the edit user profile function as well as write the Development Guide and User Guide on our github.io website.
 
 <img class="ui image" src="../images/easyChefEditProfile.png">
-<footer>Above is the Edit Profile page.</footer>
+<footer class="ui center aligned container">Above is the Edit Profile page.</footer>
 
 ### Third Milestone
 
